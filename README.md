@@ -7,7 +7,7 @@
 - **Title:** Enhancing Instance-Level Image Classification with Set-Level Labels
 - **Authors:** [Renyu Zhang](https://zhangrenyuuchicago.github.io/), [Aly A. Khan](https://people.cs.uchicago.edu/~aakhan/), [Yuxin Chen](https://yuxinchen.org/), [Robert L. Grossman](https://rgrossman.com/about.html)
 - **Affiliation:** University of Chicago
-- **Published:** [arXiv version](https://ar5iv.org/abs/2311.05659)
+- **Published:** [arXiv version](https://arxiv.org/pdf/2311.05659.pdf)
 
 ## Key Contributions
 1. Introducing the FACILE algorithm, leveraging coarse-grained labels in the source domain to enhance model performance.
